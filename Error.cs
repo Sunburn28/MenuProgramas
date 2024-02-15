@@ -19,11 +19,8 @@ namespace MenuProgramas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int A;
-
-            A = 1;
-
-            MessageBox.Show("" + A);
+          int[] array = { 1, 2, 3 };
+                int valor = array[3];
         }
     }
 }
