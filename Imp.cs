@@ -53,7 +53,7 @@ namespace MenuProgramas
             }
             else
             {
-                // Si es producto normal, se aplica IVA del 16%
+            
                 iva = sub * 0.16;
                 res = sub + iva;
             }
